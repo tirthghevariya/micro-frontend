@@ -5,7 +5,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Micro-Frontends
+          Hello world
           <code className={styles.code}></code>
         </p>
 
